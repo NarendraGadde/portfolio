@@ -1,4 +1,3 @@
-//Main File
 import React, { Component } from "react";
 import "./App.css";
 import Sidebar from "./components/sidebar";

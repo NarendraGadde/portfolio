@@ -10,9 +10,9 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img animated pulse" style={{ backgroundImage: 'url(images/pavan.jpg)' }} />
-              <h1 id="colorlib-logo" className="animated headShake"><a href="index.html">Pavan Krishna Gadde</a></h1>
-              <span className="email"><i className="icon-mail"></i><a href="mailto:pgadde@student.nitw.ac.in" target="_top">pgadde@student.nitw.ac.in</a></span>
+              <div className="author-img animated pulse" style={{ backgroundImage: 'url(images/Narendra.jpg)' }} />
+              <h1 id="colorlib-logo" className="animated headShake"><a href="index.html">Narendra Gadde</a></h1>
+              <span className="email"><i className="icon-mail"></i><a href="mailto:narendragadde18@gmail.com" target="_top">narendragadde18@gmail.com</a></span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">

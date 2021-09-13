@@ -78,8 +78,8 @@ export const profileLinks = {
   facebook: "https://www.facebook.com/PavanKrishnaGadde",
   instagram: "https://www.instagram.com/_pavan_krishna_/",
   twitter: "https://twitter.com/pkgadde",
-  linkedin: "https://www.linkedin.com/in/pavankrishnagadde/",
-  github: "https://github.com/PavanKrishnaGadde",
+  linkedin: "https://www.linkedin.com/in/narendra-gadde-27345115a/",
+  github: "https://github.com/NarendraGadde",
 };
 
 export const timelineData = [
